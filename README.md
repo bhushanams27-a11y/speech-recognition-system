@@ -1,0 +1,1 @@
+A speech recognition system is a technology that enables a computer or device to identify and process human speech and convert it into text or commands. It's also known as automatic speech recognition (ASR) or voice recognition.
